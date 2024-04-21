@@ -8,8 +8,7 @@ Things I'm curious about outside of my normal day-to-day:
 - Compilers and Interpreters
 - CLI tools
 - Building a text editor
-- Operating systems
-- Embedded systems
+- Graphics proramming
 
 <!---
 russtacean/russtacean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
